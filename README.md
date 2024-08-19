@@ -12,27 +12,25 @@
 
 **Software Developer Freelancer @ Hangaroa S.A. (_May 2022 - August 2024_)**
 
-&nbsp;
 <a href="https://play.google.com/store/apps/details?id=io.cabutos.starter.v1&pcampaignid=web_share">
-<img src="/assets/img/cabutos.png" width="100" height="100" alt="Cabutos Logo">
+<img src="/assets/img/cabutos.png" width="70" height="70" alt="Cabutos Logo">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.innovasystem.pizzeria&pcampaignid=web_share">
-<img src="/assets/img/pizza.png" width="100" height="100" alt="Italian Deli Logo">
+<img src="/assets/img/pizza.png" width="70" height="70" alt="Italian Deli Logo">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=io.kitudiaz.app&pcampaignid=web_share">
-<img src="/assets/img/futbol.png" width="100" height="100" alt="Formativas Kitu Diaz Logo">
+<img src="/assets/img/futbol.png" width="70" height="70" alt="Formativas Kitu Diaz Logo">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.vive_facil_proveedor.app&pcampaignid=web_share">
-<img src="/assets/img/vf_prov.png" width="100" height="100" alt="Vive Facil Proveedor Logo">
+<img src="/assets/img/vf_prov.png" width="70" height="70" alt="Vive Facil Proveedor Logo">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.tome.app&pcampaignid=web_share">
-<img src="/assets/img/vf_sol.png" width="100" height="100" alt="Vive Facil Solicitante Logo">
+<img src="/assets/img/vf_sol.png" width="70" height="70" alt="Vive Facil Solicitante Logo">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=ec.com.innovasystem.veris&pcampaignid=web_share">
-<img src="/assets/img/veris.webp" width="100" height="100" alt="Veris Logo">
+<img src="/assets/img/veris.webp" width="70" height="70" alt="Veris Logo">
 </a>
 
-&nbsp;
 - Designed and deployed 5 high-performance web applications using Django, including REST APIs for mobile integration, and server-side rendered web administrators
 - Developed interactive web administrator dashboards using Plotly, enabling real-time monitoring of user data and facilitating data-driven decision making
 - Optimized multiple MySQL & PostgreSQL database queries, reducing application load times by 30%, improving overall performance and user satisfaction
