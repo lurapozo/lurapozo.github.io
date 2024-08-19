@@ -100,6 +100,26 @@ Developed a model for Alzheimer’s detection with low processing requirements, 
 
 **Technologies:** Python, Keras, Tensorflow, OpenCV
 
+### Ecuadorian Schools Analysis
+
+[Repository](https://github.com/lurapozo/DatosEscolares/tree/main)
+
+Analyzed _Ser Bachiller_ (standarized national test necesary for high-school graduation) results to analyze how school funding and other socioeconomic factors have affected student performance throughout the years.
+
+![schools](/assets/img/schools.png)
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn
+
+### Ecuadorian Unemployment Analysis
+
+[Repository]([https://github.com/lurapozo/DatosEscolares/tree/main](https://github.com/lurapozo/enemdu_analisis/tree/main))
+
+Analyzed _ENEMDU_ (national survey of unemployment) results to analyze how sociocultural factors play a role in the employment of ecuadorian citizens.
+
+![schools](/assets/img/unemployment.png)
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn
+
 ## Publications
 
 1. Ramos-Pozo L., Pisco-Jordán J. and Townsend-Hinostroza D. _Naturalness and Interpretability of Graphical Representations of Fuzzy Numbers._ (2024). DOI: [10.26717/BJSTR.2019.20.003446](https://doi.org/10.18687/LACCEI2024.1.1.2011)
