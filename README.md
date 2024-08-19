@@ -6,7 +6,7 @@
 
 ## Education
 
-- B.S., Computer Science | Escuela Superior Politécnica del Litoral, ESPOL (_September 2024_)
+- B.S., Computer Science \| Escuela Superior Politécnica del Litoral, ESPOL (_September 2024_)
 
 ## Work Experience
 
