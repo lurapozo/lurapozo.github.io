@@ -112,7 +112,7 @@ Analyzed _Ser Bachiller_ (standarized national test necesary for high-school gra
 
 ### Ecuadorian Unemployment Analysis
 
-[Repository]([https://github.com/lurapozo/DatosEscolares/tree/main](https://github.com/lurapozo/enemdu_analisis/tree/main))
+[Repository](https://github.com/lurapozo/enemdu_analisis/tree/main)
 
 Analyzed _ENEMDU_ (national survey of unemployment) results to analyze how sociocultural factors play a role in the employment of ecuadorian citizens.
 
