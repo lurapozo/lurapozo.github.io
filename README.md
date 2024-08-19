@@ -46,7 +46,7 @@
 - Mentored 60 students in core AI algorithms including MLP, CNN, RNN, LSTM, SVM, Random Forest, and k-means
 - Provided hands-on learning sessions using tools like TensorFlow, PyTorch, and scikit-learn, improving students’ practical skills and understanding of AI techniques
 
-**XAI Research Assistant @ ESPOL (_May 2024 - September 2024_)**
+**XAI Research Assistant @ ESPOL (_May 2022 - September 2023_)**
 
 - Collaborated on research projects in explainable artificial intelligence (XAI) helping to improve transparency and interpretability on AI models
 - Developed a novel NLP fuzzy calculator using Python, enhancing interpretability and naturality in fuzzy calculations
