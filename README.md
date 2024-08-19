@@ -12,7 +12,7 @@
 
 ## Work Experience
 
-**Software Developer Freelancer @ Hangaroa S.A. (_May 2022 - August 2024_)**
+### Software Developer Freelancer @ Hangaroa S.A. (_May 2022 - August 2024_)
 
 <a href="https://play.google.com/store/apps/details?id=io.cabutos.starter.v1&pcampaignid=web_share">
 <img src="/assets/img/cabutos.png" width="70" height="70" alt="Cabutos Logo">
@@ -38,17 +38,17 @@
 - Optimized multiple MySQL & PostgreSQL database queries, reducing application load times by 30%, improving overall performance and user satisfaction
 - Built and published 6 mobile applications with React Native, achieving 200+ downloads
 
-**GNN Research Assistant @ ESPOL (_May 2024 - September 2024_)**
+### GNN Research Assistant @ ESPOL (_May 2024 - September 2024_)
 
 - Collaborated on research projects utilizing Graph Neural Networks (GNN) to design and train models for detecting anomalies in consumer behavior during major disruptive events
 - Developed explainable AI (XAI) techniques to interpret results from GNN regressor and classification models
 
-**AI Teaching Assistant @ ESPOL (_October 2023 - February 2024_)**
+### AI Teaching Assistant @ ESPOL (_October 2023 - February 2024_)
 
 - Mentored 60 students in core AI algorithms including MLP, CNN, RNN, LSTM, SVM, Random Forest, and k-means
 - Provided hands-on learning sessions using tools like TensorFlow, PyTorch, and scikit-learn, improving students’ practical skills and understanding of AI techniques
 
-**XAI Research Assistant @ ESPOL (_May 2022 - September 2023_)**
+### XAI Research Assistant @ ESPOL (_May 2022 - September 2023_)
 
 - Collaborated on research projects in explainable artificial intelligence (XAI) helping to improve transparency and interpretability on AI models
 - Developed a novel NLP fuzzy calculator using Python, enhancing interpretability and naturality in fuzzy calculations
