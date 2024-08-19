@@ -4,9 +4,11 @@
 
 **Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scrapy, Plotly, spaCy, Keras, PyTorch, Scikit-learn, PySpark, Django, FastAPI
 
+
 ## Education
 
 - B.S., Computer Science \| Escuela Superior Politécnica del Litoral, ESPOL (_September 2024_)
+
 
 ## Work Experience
 
@@ -51,6 +53,30 @@
 - Collaborated on research projects in explainable artificial intelligence (XAI) helping to improve transparency and interpretability on AI models
 - Developed a novel NLP fuzzy calculator using Python, enhancing interpretability and naturality in fuzzy calculations
 
+
+## Open Source Contributions
+### xf-calc
+
+[Repository](https://github.com/interpretapple-lab/xf-calc)
+
+A Natural Language Processing (NLP) calculator that uses multiple fuzzy number models to perform mathematical operations expressed in natural language.
+
+- Designed and implemented the core syntax parser that allows the calculator to understand mathematical operations expressed in natural language.
+- Developed a custom fuzzy logic module that improved calculation accuracy.
+- Collaborated with a team of 3 researchers to integrate 9 different fuzzy number models, expanding the calculator's versatility.
+
+
+### xsvm_ctx-lib
+
+[Repository](https://github.com/interpretapple-lab/xsvm_ctx-lib)
+
+A parallelized Support Vector Machine (SVM) model that provides explanations for its predictions.
+
+- Architected and implemented the core parallelization framework, enabling the creation and training of a Mixture of Contextualized Experts SMV model where each SVM model is created and trainned for each context in the trainning data.
+- Designed and implemented an explanation module that generates contrasting explanations for model predictions, enhancing model interpretability.
+- Optimized the parallelization strategy, resulting in a 80% reduction in training times for large datasets.
+- Authored detailed API documentation and usage tutorials, facilitating easier adoption by other researchers and practitioners.
+
 ## Projects
 
 ### Smart Tutor
@@ -58,9 +84,11 @@
 [Website](http://134.122.3.170)
 
 Led a team of 4 students to fine-tune the model to become a chatbot specialized in teaching programming to university students, improving engagement and learning outcomes.
-Engineered the chatbot's back-end with FastApi & SQlite, integrating educational resources and ensuring robust functionality.
+Engineered the chatbot's back-end, integrating educational resources and ensuring robust functionality.
 
 ![Smart Tutor](/assets/img/smart_tutor.png)
+
+**Technologies:** Python, FastAPI, SQLite, GPT-4, HTMX
 
 ### Alzheimer Detection with Neural Networks
 
@@ -69,6 +97,8 @@ Engineered the chatbot's back-end with FastApi & SQlite, integrating educational
 Developed a model for Alzheimer’s detection with low processing requirements, achieving 80% accuracy. TensorFlow was used to develop the architecture of the model. Advanced neural network techniques were used to enhance model performance and reliability.
 
 ![MLP Model](/assets/img/mlp_model.png)
+
+**Technologies:** Python, Keras, Tensorflow, OpenCV
 
 ## Publications
 
