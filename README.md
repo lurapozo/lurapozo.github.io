@@ -60,11 +60,11 @@
 
 [Repository](https://github.com/interpretapple-lab/xf-calc)
 
-A Natural Language Processing (NLP) calculator that uses multiple fuzzy number models to perform mathematical operations expressed in natural language.
+A Natural Language Processing (NLP) calculator that uses multiple fuzzy models to perform mathematical operations expressed in natural language.
 
 - Designed and implemented the core syntax parser that allows the calculator to understand mathematical operations expressed in natural language.
 - Developed a custom fuzzy logic module that improved calculation accuracy.
-- Collaborated with a team of 3 researchers to integrate 9 different fuzzy number models, expanding the calculator's versatility.
+- Collaborated with a team of 3 researchers to integrate 9 different fuzzy models, expanding the calculator's versatility.
 
 
 ### xsvm_ctx-lib
