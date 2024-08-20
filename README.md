@@ -13,25 +13,26 @@
 ## Work Experience
 
 ### Software Developer Freelancer @ Hangaroa S.A. (_May 2022 - August 2024_)
-
-<a href="https://play.google.com/store/apps/details?id=io.cabutos.starter.v1&pcampaignid=web_share">
-<img src="/assets/img/cabutos.png" width="70" height="70" alt="Cabutos Logo">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.innovasystem.pizzeria&pcampaignid=web_share">
-<img src="/assets/img/pizza.png" width="70" height="70" alt="Italian Deli Logo">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=io.kitudiaz.app&pcampaignid=web_share">
-<img src="/assets/img/futbol.png" width="70" height="70" alt="Formativas Kitu Diaz Logo">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.vive_facil_proveedor.app&pcampaignid=web_share">
-<img src="/assets/img/vf_prov.png" width="70" height="70" alt="Vive Facil Proveedor Logo">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.tome.app&pcampaignid=web_share">
-<img src="/assets/img/vf_sol.png" width="70" height="70" alt="Vive Facil Solicitante Logo">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=ec.com.innovasystem.veris&pcampaignid=web_share">
-<img src="/assets/img/veris.webp" width="70" height="70" alt="Veris Logo">
-</a>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=io.cabutos.starter.v1&pcampaignid=web_share">
+  <img src="/assets/img/cabutos.png" width="70" height="70" alt="Cabutos Logo">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.innovasystem.pizzeria&pcampaignid=web_share">
+  <img src="/assets/img/pizza.png" width="70" height="70" alt="Italian Deli Logo">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=io.kitudiaz.app&pcampaignid=web_share">
+  <img src="/assets/img/futbol.png" width="70" height="70" alt="Formativas Kitu Diaz Logo">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.vive_facil_proveedor.app&pcampaignid=web_share">
+  <img src="/assets/img/vf_prov.png" width="70" height="70" alt="Vive Facil Proveedor Logo">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.tome.app&pcampaignid=web_share">
+  <img src="/assets/img/vf_sol.png" width="70" height="70" alt="Vive Facil Solicitante Logo">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=ec.com.innovasystem.veris&pcampaignid=web_share">
+  <img src="/assets/img/veris.webp" width="70" height="70" alt="Veris Logo">
+  </a>
+</div>
 
 - Designed and deployed 5 high-performance web applications using Django, including REST APIs for mobile integration, and server-side rendered web administrators
 - Developed interactive web administrator dashboards using Plotly, enabling real-time monitoring of user data and facilitating data-driven decision making
@@ -86,7 +87,9 @@ A parallelized Support Vector Machine (SVM) model that provides explanations for
 Led a team of 4 students to fine-tune the model to become a chatbot specialized in teaching programming to university students, improving engagement and learning outcomes.
 Engineered the chatbot's back-end, integrating educational resources and ensuring robust functionality.
 
-![Smart Tutor](/assets/img/smart_tutor.png)
+<div align="center">
+  <img src="/assets/img/smart_tutor.png" alt="Smart Tutor">
+</div>
 
 **Technologies:** Python, FastAPI, SQLite, GPT-4, HTMX
 
@@ -96,7 +99,9 @@ Engineered the chatbot's back-end, integrating educational resources and ensurin
 
 Developed a model for Alzheimer’s detection with low processing requirements, achieving 80% accuracy. TensorFlow was used to develop the architecture of the model. Advanced neural network techniques were used to enhance model performance and reliability.
 
-![MLP Model](/assets/img/mlp_model.png)
+<div align="center">
+  <img src="/assets/img/mlp_model.png" alt="MLP Model">
+</div>
 
 **Technologies:** Python, Keras, Tensorflow, OpenCV
 
@@ -106,7 +111,9 @@ Developed a model for Alzheimer’s detection with low processing requirements, 
 
 Analyzed _Ser Bachiller_ (standarized national test necesary for high-school graduation) results to analyze how school funding and other socioeconomic factors have affected student performance throughout the years.
 
-![schools](/assets/img/schools.png)
+<div align="center">
+  <img src="/assets/img/schools.png" alt="schools">
+</div>
 
 **Technologies:** Python, Pandas, Matplotlib, Seaborn
 
@@ -116,7 +123,9 @@ Analyzed _Ser Bachiller_ (standarized national test necesary for high-school gra
 
 Analyzed _ENEMDU_ (national survey of unemployment) results to analyze how sociocultural factors play a role in the employment of ecuadorian citizens.
 
-![schools](/assets/img/unemployment.png)
+<div align="center">
+  <img src="/assets/img/unemployment.png" alt="unemployment">
+</div>
 
 **Technologies:** Python, Pandas, Matplotlib, Seaborn
 
